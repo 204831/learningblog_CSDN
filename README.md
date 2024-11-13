@@ -80,3 +80,9 @@
 简述：介绍了如何在VisualStudioCode(VSCode)中配置Markdown环境，包括使用MarkdownPreviewEnhan插件预览和导出Markdown为PDF、Word和HTML格式，以及如何配置Pandoc进行转换，并提供详细的导出Word设置示例
 
 原文链接:[https://blog.csdn.net/qq_51555368/article/details/133299145](https://blog.csdn.net/qq_51555368/article/details/133299145)
+
+### 013 不规则图形面积计算
+
+简述：使用python+opencv计算不规则图形的面积
+
+原文链接:[https://blog.csdn.net/qq_51555368/article/details/143746229](https://blog.csdn.net/qq_51555368/article/details/143746229)
